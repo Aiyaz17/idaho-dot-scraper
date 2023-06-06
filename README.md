@@ -20,9 +20,7 @@ This code demonstrates web scraping using the Selenium library in Python. It scr
 
 ## Usage
 
-1. Open the code file `scraper.py` in a text editor.
-2. Save the changes.
-3. Execute the code by running the following command:
+1. Execute the code by running the following command:
 
    ```
    python scraper.py
